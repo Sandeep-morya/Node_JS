@@ -1,0 +1,5 @@
+URL: www.facebook.com | Address: 157.240.198.35 | IPv4
+URL: www.youtube.com | Address: 172.217.166.238 | IPv4
+URL: www.google.com | Address: 142.250.192.164 | IPv4
+URL: www.instagram.com | Address: 157.240.198.174 | IPv4
+URL: www.twitter.com | Address: 104.244.42.1 | IPv4
